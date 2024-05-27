@@ -70,7 +70,7 @@ Close Resources: Closes the input/output streams and the client socket.
 
 
 ### Dynamic_SimpleServer.java
-
+```java
 import java.io.*;
 import java.net.*;
 
