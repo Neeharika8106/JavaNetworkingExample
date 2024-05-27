@@ -74,7 +74,7 @@ Close Resources: Closes the input/output streams and the client socket.
 import java.io.*;
 import java.net.*;
 
-public class SimpleClient {
+public class Dynamic_SimpleClient {
     public static void main(String[] args) {
         String serverAddress = "localhost"; // Server address
         int port = 12345; // Server port
